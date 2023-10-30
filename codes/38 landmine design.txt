@@ -1,0 +1,1 @@
+57.5*custom*#484848*#555555*6/6/0/0/180/270/57.5[{"angle":0,"xoffset":-57,"yoffset":0,"width":50,"baselength":0,"length":0,"basereload":120,"reload":0,"basedelay":0,"delay":0,"delayed":true,"hasKnockBack":true,"type":4,"knockback":0,"disabled":false,"spread":0,"image":"rectangle","color":"#00b2e1","bulletColor":"#ffffff","b":[25,0,360],"damage":65,"comment":""}]
